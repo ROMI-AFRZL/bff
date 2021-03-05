@@ -1,8 +1,8 @@
 ## Login
 ```
-Cookie 
+• Cookie 
 ````
-## Command
+## Perintah
 ````
 • pkg update && pkg upgrade 
 • pkg install python2 
