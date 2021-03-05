@@ -1,4 +1,6 @@
-## COMMAND
+## Login
+- Cookie 
+## Command
 ````
 • pkg update && pkg upgrade 
 • pkg install python2 
